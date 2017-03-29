@@ -1,0 +1,11 @@
+This is second project in my Software Development class. 
+
+The main goal behind the project was to create a pie chart that lists the frequency of all the letter in the alphabet found inside a text file. 
+
+The text file xWords.txt contains a list of words and they are seperated by a newline. 
+
+
+Runtime of this is O(n^2) Due to the nested loops found within the HistogramLetters.java File. 
+
+Feel Free to clone and use my work in any way you would like. 
+
